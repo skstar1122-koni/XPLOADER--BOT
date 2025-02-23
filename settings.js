@@ -1,11 +1,11 @@
   //project_name : CypherX
-// @author : TYLOR
+// @author  : SAJID 
 // @youtube : https://www.youtube.com/@heyits_tylor
-// @instagram : heyits_tylor
+// @instagram : sajidali_editx
 // @telegram : t.me/heyits_tylor
 // @github : Dark-Xploit
-// @tiktok : heyits_tylor
-// @whatsapp : +254754783972
+// @tiktok : sajidali_editx
+// @whatsapp : +923252714814
 //*
 //* 
 //=================================================//
@@ -23,7 +23,7 @@ global.botname = process.env.BOT_NAME || 'CypherX'
 //Your desired bot name
 
 //=================================================//
-global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
+global.ownernumber = process.env.OWNER_NUMBER || '923251714814' 
 //Type your main number here
 
 //=================================================//
@@ -32,17 +32,17 @@ global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['254796180105', 
 //NB: They'll be able to use every functions of the bot without restrictions.
 
 //=================================================//
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || 'SAJID ALI' 
 //Type your name here
 
 //=================================================//
-global.plink = process.env.PLINK || "https://www.instagram.com/heyits_tylor?igsh=YzljYTk1ODg3Zg=="
+global.plink = process.env.PLINK || "https://www.instagram.com/sajidali_editx?igsh=ZzRka2QzbzJpM2Fk"
 
 //=================================================//
-global.wm = process.env.GL_WM || "©CypherX"
+global.wm = process.env.GL_WM || "THE NIGHTMARE"
 
 //=================================================//
-global.packname = process.env.STICKER_PACK_NAME || "Cypher" 
+global.packname = process.env.STICKER_PACK_NAME || "THE NIGHTMARE" 
 //The sticker pack name
 
 //=================================================//
@@ -124,10 +124,10 @@ global.menustyle = process.env.MENU_STYLE || '2'
 //Replies
 global.mess = { 
   done: '*Done*', 
-  success: '©CypherX', 
-  owner: `*You don't have permission to use this command!*`, 
-  group: '*This feature becomes available when you use it in a group!*', 
-  admin: '*You’ll unlock this feature with me as an admin!*', 
+  success: 'The Nightmare', 
+  owner: `*_`baap ko baj tari bas ki baat nai`_*`, 
+  group: '*_`baap ko baj tari bas ki baat nai`_*', 
+  admin: '*_`baap ko baj tari bas ki baat nai`_*', 
   notadmin: '*This feature will work once you become an admin. A way of ensuring order!*' 
 }
 //=================================================//
